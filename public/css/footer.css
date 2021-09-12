@@ -1,0 +1,44 @@
+#footerWrapper #footer {
+  background-color: #000000 !important;
+}
+#footerWrapper #footer p.block-title {
+  color: #1488CC !important;
+  font-family: Roboto, sans-serif;
+}
+#footerWrapper #footer div.menu-section-block-list {
+  margin-bottom: 0.5rem;
+}
+#footerWrapper #footer div.menu-section-block-list a {
+  line-height: 1rem;
+}
+#footerWrapper #footer div.menu-section-block-list a.more-link {
+  color: #1488CC !important;
+}
+#footerWrapper #footer ul.menu-section-block-list {
+  list-style: none;
+  padding-left: 0;
+}
+#footerWrapper #footer ul.menu-section-block-list li {
+  margin-bottom: 0.5rem;
+}
+#footerWrapper #footer ul.menu-section-block-list li a div.get-in-icon {
+  height: 25px !important;
+  width: 25px !important;
+  border-radius: 50%;
+  background-color: #1488CC !important;
+  float: left !important;
+  margin-right: 1rem !important;
+  text-align: center;
+  padding-top: 0.25rem;
+}
+#footerWrapper #footer ul.menu-section-block-list li a div.get-in-icon.whatsapp-bg {
+  background-color: #32BA46 !important;
+}
+#footerWrapper #footer ul.menu-section-block-list li a.more-link {
+  color: #1488CC !important;
+}
+#footerWrapper #footer div.separator {
+  border-width: 1px !important;
+  border-color: #707070 !important;
+}
+

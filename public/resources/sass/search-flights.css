@@ -1,0 +1,28 @@
+#searchFlights h1.page-title {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.8;
+}
+#searchFlights hr.flight-route {
+  border-top: 0.25rem dotted #a01818;
+  margin: 0.5rem 0.25rem;
+}
+#searchFlights p.price-info {
+  color: #a01818 !important;
+}
+#searchFlights a.btn-phn {
+  background-color: #e67f30 !important;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+#searchFlights a.btn-whtsapp {
+  background-color: #a01818 !important;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+#searchFlights p.iata-code {
+  color: #e67f30 !important;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+}

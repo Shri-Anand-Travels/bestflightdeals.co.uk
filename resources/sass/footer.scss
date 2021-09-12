@@ -1,0 +1,67 @@
+@import "variables";
+
+#footerWrapper {
+    #footer {
+        background-color: $black !important;
+
+        p.block-title {
+            color: $theme-secondary-color !important;
+            font-family: Roboto, sans-serif;
+        }
+
+        div {
+            &.menu-section-block-list {
+                margin-bottom: .5rem;
+                a {
+                    line-height: 1rem;
+                    &.more-link {
+                        color: $theme-secondary-color !important;
+                    }
+                }
+            }
+        }
+
+        ul {
+            &.menu-section-block-list {
+                list-style: none;
+                padding-left: 0;
+
+                li {
+                    margin-bottom: .5rem;
+
+                    a {
+                        div {
+                            &.get-in-icon {
+                                height: 25px !important;
+                                width: 25px !important;
+                                border-radius: 50%;
+                                background-color: $theme-secondary-color !important;
+                                float: left !important;
+                                margin-right: 1rem !important;
+                                text-align: center;
+                                padding-top: .25rem;
+
+                                &.whatsapp-bg {
+                                    background-color: $whatsapp-color !important;
+                                }
+                            }
+                        }
+
+                        &.more-link {
+                            color: $theme-secondary-color !important;
+                        }
+                    }
+
+
+                }
+            }
+        }
+
+        div {
+            &.separator {
+                border-width: 1px !important;
+                border-color: #707070 !important;
+            }
+        }
+    }
+}

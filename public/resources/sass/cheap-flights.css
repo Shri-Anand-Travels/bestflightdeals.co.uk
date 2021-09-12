@@ -1,0 +1,27 @@
+#cheapFlights h1.page-title {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.8;
+}
+#cheapFlights hr.flight-route {
+  border-top: 0.25rem dotted #a01818;
+}
+#cheapFlights p.price-info {
+  color: #a01818 !important;
+}
+#cheapFlights a.btn-phn {
+  background-color: #e67f30 !important;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+#cheapFlights a.btn-whtsapp {
+  background-color: #a01818 !important;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+#cheapFlights p.iata-code {
+  color: #e67f30 !important;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+}

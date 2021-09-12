@@ -1,0 +1,15 @@
+.why-with-us-block-tiles {
+  border-radius: 0.625rem !important;
+  border-color: #1488CC !important;
+}
+.why-with-us-block-tiles .card-body {
+  padding: 1rem;
+}
+.why-with-us-block-tiles p.feature-text {
+  margin-left: 0.625rem !important;
+  color: #000000;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500 !important;
+}
+
+/*# sourceMappingURL=why-with-us.css.map */

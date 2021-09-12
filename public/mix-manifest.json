@@ -1,0 +1,20 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/flights-enquiry-form.js": "/js/flights-enquiry-form.js",
+    "/js/contact-form.js": "/js/contact-form.js",
+    "/js/autocomplete.js": "/js/autocomplete.js",
+    "/js/flight-search-engine.js": "/js/flight-search-engine.js",
+    "/js/home.js": "/js/home.js",
+    "/js/flights.js": "/js/flights.js",
+    "/js/fly-now-pay-later.js": "/js/fly-now-pay-later.js",
+    "/css/hero-banner.css": "/css/hero-banner.css",
+    "/css/fly-now-pay-later.css": "/css/fly-now-pay-later.css",
+    "/css/flights.css": "/css/flights.css",
+    "/css/home.css": "/css/home.css",
+    "/css/app.css": "/css/app.css",
+    "/css/cheap-flights.css": "/css/cheap-flights.css",
+    "/css/why-with-us.css": "/css/why-with-us.css",
+    "/css/footer.css": "/css/footer.css",
+    "/css/autocomplete.css": "/css/autocomplete.css",
+    "/css/search-flights.css": "/css/search-flights.css"
+}

@@ -1,0 +1,47 @@
+@import "variables";
+@import "~jquery-ui/themes/base/all.css";
+
+#flights-hero-banner {
+    .search-engine-wrapper {
+        margin-top: -5.75rem;
+        margin-bottom: 2rem;
+
+        form#search-engine {
+            input, select, button {
+                min-height: 45px;
+                border-radius: 10px;
+                font-size: .8125rem !important;
+            }
+
+            .input-group {
+                div.input-group-prepend {
+                    & + input {
+                        border-left: none !important;
+                        border-radius: 0 .625rem .625rem 0;
+                    }
+
+                    span.input-group-text {
+                        background-color: $transparent;
+                        border-right: none !important;
+                        border-radius: 10px 0 0 10px;
+
+                        i.fas {
+                            color: $theme-primary-color;
+                        }
+                    }
+                }
+            }
+        }
+
+
+        button[type=submit] {
+            background-color: $theme-primary-color;
+            border-color: $theme-primary-color;
+            font-weight: bold;
+
+            &:hover, &:focus, &:active, &:visited {
+                background-color: $theme-primary-color;
+            }
+        }
+    }
+}
