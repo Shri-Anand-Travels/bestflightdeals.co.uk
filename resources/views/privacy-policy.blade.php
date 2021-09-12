@@ -7,11 +7,11 @@
 
             <div class="col-12 mb-3">
                 <p>
-                    This Privacy Notice is to clarify and state how Bestflightdeals, an extension of a UK based travel
-                    firm Blueberry Travels runs its functions. Our team at Bestflightdeals understands how important
-                    privacy is to our customers; to the best of our capabilities, we try to always put your safety first
-                    and keep your personal data protected when you use our website. With the help of your data we assure
-                    you top-notch travel and flight arrangements and also give you complete surety of data protection.
+                    This Privacy Notice is to clarify and state how Bestflightdeals. Our team at Bestflightdeals
+                    understands how important privacy is to our customers; to the best of our capabilities, we try to
+                    always put your safety first and keep your personal data protected when you use our website. With
+                    the help of your data we assure you top-notch travel and flight arrangements and also give you
+                    complete surety of data protection.
                 </p>
                 <p>
                     Our Privacy Policy shows compliance with our responsibilities under the European Union (EU) General

@@ -8,7 +8,7 @@
             <div class="col-12 mb-3">
                 <p class="h4 block-title my-3">Tension-free Booking</p>
                 <p>
-                    Our team at Blueberry Flight always aims at making our clients feel like our top priority. Our
+                    Our team at Bestflightdeals always aims at making our clients feel like our top priority. Our
                     experts are hard at work to make sure that you get confirmed flight bookings and full felicity for
                     adjustment of dates, in the midst of all the COVID-19 travel restrictions.
                 </p>
