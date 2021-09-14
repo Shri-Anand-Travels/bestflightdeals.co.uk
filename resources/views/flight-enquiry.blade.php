@@ -1,4 +1,7 @@
 <x-layout>
+    @push('metaTags')
+        <title>Enquire Now - BestFlightDeals UK</title>
+    @endpush
     <div class="container-fluid">
         <div class="row">
             <div id="flight-enquiry-banner" class="col px-0">

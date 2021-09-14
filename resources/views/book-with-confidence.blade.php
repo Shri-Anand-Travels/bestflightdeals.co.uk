@@ -1,4 +1,12 @@
 <x-layout>
+    @push('metaTags')
+        <meta name="title" content="Book Tailor Made Holiday Packages & Flights Across The Globe With BestFlightDeals UK. Call Us 24*7 At 02034756770.">
+        <meta name="description" content="Get Best Deals At Price Match Guaranteed With Low Deposit & Easy Monthly Installment Plans. Get Your Quote Right Now.">
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
+        <title>Book Tailor Made Holiday Packages & Flights Across The Globe With BestFlightDeals UK. Call Us 24*7 At 02034756770.</title>
+    @endpush
     <div class="container">
         <div class="row">
             <div class="col-12">

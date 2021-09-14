@@ -1,5 +1,7 @@
 <x-layout>
-
+    @push('metaTags')
+        <title>Thank you - BestFlightDeals UK</title>
+    @endpush
     <div id="thankYouPage" class="container">
         <div class="row py-3">
             <div class="col">

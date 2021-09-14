@@ -4,12 +4,13 @@
         <meta name="title"
               content="Cheap Flights to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}} | Cheap Flights Tickets to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}} | Book Flights Tickets to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}}">
         <meta name="description"
-              content="Cheap tickets on {{ucfirst($destination??'')}}, {{ucfirst($country??'')}} flights. Bestflightdeals offers cheap flights to with price match guaranteed , low deposit & easy monthly payment options.">
+              content="Cheap tickets on {{ucfirst($destination??'')}}, {{ucfirst($country??'')}} flights. BestFlightDeals offers cheap flights to with price match guaranteed , low deposit & easy monthly payment options.">
         <meta name="keywords"
               content="Flights to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}}, Cheap Tickets to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}}, Cheap Flights {{ucfirst($destination??'')}}, {{ucfirst($country??'')}}">
         <meta name="robots" content="index, follow">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="language" content="English">
+        <title>Cheap Flights to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}} | Cheap Flights Tickets to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}} | Book Flights Tickets to {{ucfirst($destination??'')}}, {{ucfirst($country??'')}}</title>
     @endpush
 
     @push('styles')

@@ -4,12 +4,13 @@
         <meta name="title"
               content="Cheap Flights to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}} | Cheap Flights Tickets to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}  | Book Flights Tickets to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}">
         <meta name="description"
-              content="Cheap tickets on {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}} flights. Bestflightdeals offers cheap flights to with price match guaranteed , low deposit & easy monthly payment options.">
+              content="Cheap tickets on {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}} flights. BestFlightDeals offers cheap flights to with price match guaranteed , low deposit & easy monthly payment options.">
         <meta name="keywords"
               content="Flights to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}, Cheap Tickets to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}, Cheap Flights {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}">
         <meta name="robots" content="index, follow">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="language" content="English">
+        <title>Cheap Flights to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}} | Cheap Flights Tickets to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}  | Book Flights Tickets to {{ucfirst($destination->city??'')}}, {{ucfirst($destination->country??'')}}"</title>
     @endpush
 
     @push('styles')

@@ -1,4 +1,7 @@
 <x-layout>
+    @push('metaTags')
+        <title>Terms and conditions - BestFlightDeals UK</title>
+    @endpush
     <div class="container">
         <div class="row">
             <div class="col-12">

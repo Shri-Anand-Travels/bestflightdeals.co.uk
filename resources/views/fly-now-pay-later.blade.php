@@ -1,4 +1,9 @@
 <x-layout>
+    @push('metaTags')
+        <meta name="title" content="Book Flights Now Across The Globe And Pay Later With BestFlightDeals UK. Avail Fly Now Pay Later Option Now">
+        <meta name="description" content="Get Best Deals At Price Match Guaranteed. Get Your Quote Right Now.">
+        <title>Book Flights Now Across The Globe And Pay Later With BestFlightDeals UK. Avail Fly Now Pay Later Option Now</title>
+    @endpush
     @push('styles')
         <link rel="stylesheet" href="{{asset('css/autocomplete.css')}}">
         <link rel="stylesheet" href="{{asset('css/fly-now-pay-later.css')}}">

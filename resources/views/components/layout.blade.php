@@ -7,7 +7,7 @@
 
     @stack('metaTags')
 
-    <title>{{env('APP_NAME')}}{{ empty($title) ? '' : ' - '.$title}}</title>
+{{--    <title>{{env('APP_NAME')}}{{ empty($title) ? '' : ' - '.$title}}</title>--}}
 
     <link rel="stylesheet" href="{{asset('css/footer.css')}}">
     <link rel="stylesheet" href="{{asset('css/app.css')}}"/>
