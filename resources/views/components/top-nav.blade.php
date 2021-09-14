@@ -18,9 +18,9 @@
                 <li class="nav-item {{Request::path() == 'flights' ?'active':''}}">
                     <a class="nav-link px-3" href="{{URL::to('/flights')}}">Flights</a>
                 </li>
-                <li class="nav-item {{Request::path() == 'holidays' ?'active':''}}">
-                    <a class="nav-link px-3" href="{{URL::to('/holidays')}}">Holidays</a>
-                </li>
+{{--                <li class="nav-item {{Request::path() == 'holidays' ?'active':''}}">--}}
+{{--                    <a class="nav-link px-3" href="{{URL::to('/holidays')}}">Holidays</a>--}}
+{{--                </li>--}}
                 <li class="nav-item {{Request::path() == 'covid-19-update' ?'active':''}}">
                     <a class="nav-link px-3" href="{{URL::to('/covid-19-update')}}">Covid Update</a>
                 </li>

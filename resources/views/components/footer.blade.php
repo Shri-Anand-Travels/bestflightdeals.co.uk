@@ -110,11 +110,11 @@
                                     </li>
                                     <li class="mb-3">
                                         <a class="text-white text-decoration-none small d-flex align-items-center"
-                                           href="https://goo.gl/maps/cXFgDLEX1JVJ9jEc8">
+                                           href="https://goo.gl/maps/7yNdgkrwLBrEsvTG9">
                                             <div class="get-in-icon">
                                                 <i class="fas fa-map-marker-alt mx-2"></i>
                                             </div>
-                                            58 Denecroft Crescent, Uxbridge, UB10 9HX, England
+                                            58, Uxbridge, UB10 9HX, England
                                         </a>
                                     </li>
                                 </ul>

@@ -38,21 +38,24 @@
 <x-footer></x-footer>
 
 @stack('scripts')
+
 <!-- BEGIN responseiQ.com widget -->
-<script type="text/javascript"
-        src="https://app.responseiq.com/widgetsrc.php?widget=6K5T14YT7L26NAX275&widgetrnd=Math.random();"></script>
+<script
+    type="text/javascript"
+    src="https://app.responseiq.com/widgetsrc.php?widget=Y1210QQ948XI3J57151&widgetrnd=Math.random();">
+</script>
 <!-- END responseiQ.com widget -->
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
-    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-    (function () {
-        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-        s1.async = true;
-        s1.src = 'https://embed.tawk.to/61002bdf649e0a0a5cce3122/1fbkamof7';
-        s1.charset = 'UTF-8';
-        s1.setAttribute('crossorigin', '*');
-        s0.parentNode.insertBefore(s1, s0);
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/613f5d4225797d7a89feb7ef/1fffo8jkn';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
     })();
 </script>
 <!--End of Tawk.to Script-->
