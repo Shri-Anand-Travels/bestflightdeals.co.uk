@@ -108,15 +108,15 @@
                                             {{env('CONTACT_WHATSAPP')}}
                                         </a>
                                     </li>
-                                    <li class="mb-3">
-                                        <a class="text-white text-decoration-none small d-flex align-items-center"
-                                           href="https://goo.gl/maps/7yNdgkrwLBrEsvTG9">
-                                            <div class="get-in-icon">
-                                                <i class="fas fa-map-marker-alt mx-2"></i>
-                                            </div>
-                                            58, Uxbridge, UB10 9HX, England
-                                        </a>
-                                    </li>
+{{--                                    <li class="mb-3">--}}
+{{--                                        <a class="text-white text-decoration-none small d-flex align-items-center"--}}
+{{--                                           href="https://goo.gl/maps/7yNdgkrwLBrEsvTG9">--}}
+{{--                                            <div class="get-in-icon">--}}
+{{--                                                <i class="fas fa-map-marker-alt mx-2"></i>--}}
+{{--                                            </div>--}}
+{{--                                            58, Uxbridge, UB10 9HX, England--}}
+{{--                                        </a>--}}
+{{--                                    </li>--}}
                                 </ul>
                             </div>
                         </div>
