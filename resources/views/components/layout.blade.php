@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{asset('css/app.css')}}"/>
 
 @stack('styles')
-    
+
 {{--    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-328693758"></script>--}}
 {{--    <script>--}}
 {{--        window.dataLayer = window.dataLayer || [];--}}
@@ -35,6 +35,21 @@
 {{ $slot }}
 
 <x-footer></x-footer>
+
+<div class="modal fade" id="callUsPopup" tabindex="-1" aria-labelledby="callUsPopupLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered border-0">
+        <div class="modal-content bg-transparent">
+            <div class="modal-body p-0 ">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="position: absolute;top: 10px;right: 10px;">
+                    <i aria-hidden="true" class="fas fa-times"></i>
+                </button>
+                <a href="tel:{{env('CONTACT_PHONE_ACTUAL')}}">
+                    <img loading="lazy" class="img-fluid" src="{{asset('/images/popup.png')}}" alt="popup">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
 
 @stack('scripts')
 

@@ -24,3 +24,19 @@ $(document).ready(function () {
         }
     });
 });
+
+$(function(){
+    console.log('test');
+    if(sessionStorage.getItem('hidePopup') === null){
+        console.log('in condition');
+        setTimeout(function(){
+            $('#callUsPopup').modal('show');
+            console.log('show');
+        }, 3000);
+    }
+
+    $('#callUsPopup').on('hidden.bs.modal', function(e){
+        sessionStorage.setItem('hidePopup', true);
+    });
+
+});
