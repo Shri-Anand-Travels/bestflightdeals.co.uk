@@ -29,9 +29,10 @@
                                         <p class="mb-0 font-weight-bold">&pound;&nbsp;{{$flightDestination->Adults}}</p>
                                     </div>
                                     <div class="col d-flex align-items-center">
-                                        <a href="{{URL::to("/flights-to-".str_replace(' ','-', strtolower($flightDestination->destination_city)))}}"
+{{--                                        <a href="{{URL::to("/flights-to-".str_replace(' ','-', strtolower($flightDestination->destination_city)))}}"--}}
+                                        <a href="tel:{{env('CONTACT_PHONE_ACTUAL')}}"
                                            class="btn btn-sm btn-block btn-flight-card text-uppercase font-weight-bold">
-                                            Book Now
+                                            Call Now
                                         </a>
                                     </div>
                                 </div>
