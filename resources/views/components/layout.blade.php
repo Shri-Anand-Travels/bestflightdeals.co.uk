@@ -13,20 +13,19 @@
     <link rel="stylesheet" href="{{asset('css/app.css')}}"/>
 
 @stack('styles')
+    
+{{--    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-328693758"></script>--}}
+{{--    <script>--}}
+{{--        window.dataLayer = window.dataLayer || [];--}}
 
-<!-- Global site tag (gtag.js) - Google Ads: 328693758 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-328693758"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+{{--        function gtag() {--}}
+{{--            dataLayer.push(arguments);--}}
+{{--        }--}}
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+{{--        gtag('js', new Date());--}}
 
-        gtag('js', new Date());
-
-        gtag('config', 'AW-328693758');
-    </script>
+{{--        gtag('config', 'AW-328693758');--}}
+{{--    </script>--}}
 
 </head>
 <body class="antialiased">
